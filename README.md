@@ -125,7 +125,7 @@ The working of GridGuard can be explained in the following steps:
                          |
                          v
                     Dashboard
-
+```
 
 # 6. Hardware Components
 
@@ -225,7 +225,6 @@ Environment: SAFE
 Overall Risk: MEDIUM
 ```
 
----
 
 # 9. OLED Display
 
@@ -262,7 +261,6 @@ GPS:
 76.5678 E
 ```
 
----
 
 # 10. Alert System
 
